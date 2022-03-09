@@ -12,7 +12,7 @@ public class lab06 {
         num2 = input.nextInt();
         
         int sum;
-        sum = num1 + num2;
+        sum = num1 - num2;
 
         System.out.println(sum);
     }
